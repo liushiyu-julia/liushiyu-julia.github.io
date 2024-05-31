@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-This is Shiyu, a self-motivated, passionate about architectural design, and always eager to learn more. I always question how architecture can play a role in the Anthropocentric epoch. Currently, I am researching product architecture using modern technologies, for example, virtual reality, machine learning, 3d printing, etc., to make living spaces prefabricated and customized. This has the potential to substitute traditional design workflow and make it more effective and convincing. 
+Hi! This is Shiyu, an architecture and interior designer. I always question how architecture can play a role in the Anthropocentric epoch, and how to make living spaces prefabricated and customized. Please refer to Aurora to see my project during my Postgraduate study. https://bpro2023.bartlettarchucl.com/rc5-product-architecture/aurora .If you are interested in my bachelor projects, please click here to see my portfolio. https://issuu.com/2544327750/docs/1216
